@@ -16,7 +16,7 @@
 
 `พื้นที่ที่ทำการศึกษา`
   - ในเชียงใหม่ [จุดในแผนที่](map_sensor.html)
-    ![พื้นที่](fig/area.png) 
+    - ![พื้นที่](fig/area.png) 
 
 `วิธีการ`
   - เลือกใช้ model คือ bidirectional lstm และ lstm 
@@ -31,20 +31,17 @@
   - corr after data preprocessing
     ![corr after data preprocessing](fig/correlation.png)
 
-  - bidirectional lstm (spatial temporal) 
-    ![layer](fig/layer1.png)
-    ![ผล loss bi_lstm แบบหลายพื้นที่](fig/1.png)
-    [error](error/error_metrics_1.txt)
+  - bidirectional lstm (spatial temporal) [error](error/error_metrics_1.txt)
+    - ![layer](fig/layer1.png)
+    - ![ผล loss bi_lstm แบบหลายพื้นที่](fig/1.png)
 
-  - lstm (spatial temporal) 
-    ![layer](fig/layer2.png)
-    ![ผล loss lstm แบบหลายพื้นที่](fig/2.png)
-    [error](error/error_metrics_1point.txt)
+  - lstm (spatial temporal) [error](error/error_metrics_1point.txt)
+    - ![layer](fig/layer2.png)
+    - ![ผล loss lstm แบบหลายพื้นที่](fig/2.png)
 
-  - lstm (temporal)(sensor 2)
-    ![layer](fig/layer3.png)   
-    ![ผล loss lstm แบบจุดเดียว](fig/3.png)
-    [error](error/error_metrics_2.txt)
+  - lstm (temporal)(sensor 2) [error](error/error_metrics_2.txt)
+    - ![layer](fig/layer3.png)   
+    - ![ผล loss lstm แบบจุดเดียว](fig/3.png)
     
 `ref`
   - `ตัวอย่างที่เอามาใช้`
