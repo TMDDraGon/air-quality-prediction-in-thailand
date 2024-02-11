@@ -16,20 +16,19 @@
 
 `พื้นที่ที่ทำการศึกษา`
   - ในเชียงใหม่ [จุดในแผนที่](map_sensor.html)
-    - ![พื้นที่](fig/area.png) 
+  - ![พื้นที่](fig/area.png) 
 
 `วิธีการ`
   - เลือกใช้ model คือ bidirectional lstm และ lstm 
     - bidirectional lstm ที่แต่ละ cell ใส่ data ของแต่ละsensor 
     - lstm ที่แต่ละ cell ใส่ data ของแต่ละsensor
     - lstmแบบปกติ ที่แต่ละ cell ใส่ data ของแต่ละ time step ของsensor
-
   - train data 2023-01-30 00:00:00 ถึง 2024-01-30 00:00:00 (365 days 00:00:00)
   - test data 2024-01-30 01:00:00 ถึง 2024-02-11 09:00:00 (12 days 08:00:00)
 
 `ผลการศึกษา`
   - corr after data preprocessing
-    ![corr after data preprocessing](fig/correlation.png)
+    - ![corr after data preprocessing](fig/correlation.png)
 
   - bidirectional lstm (spatial temporal) [error](error/error_metrics_1.txt)
     - ![layer](fig/layer1.png)
