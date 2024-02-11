@@ -1,0 +1,77 @@
+Sensor 1 - Error Metrics per feature:
+  PM10 MAE:       20.22   RMSE: 27.01
+  PM25 MAE:       19.51   RMSE: 26.08
+  Temperature MAE: 3.87   RMSE: 5.50
+  Humidity MAE:   3.80   RMSE: 5.13
+
+Sensor 2 - Error Metrics per feature:
+  PM10 MAE:       9.91   RMSE: 13.44
+  PM25 MAE:       7.67   RMSE: 10.27
+  Temperature MAE: 2.08   RMSE: 2.45
+  Humidity MAE:   8.66   RMSE: 10.93
+
+Sensor 3 - Error Metrics per feature:
+  PM10 MAE:       12.88   RMSE: 15.96
+  PM25 MAE:       9.91   RMSE: 12.36
+  Temperature MAE: 2.44   RMSE: 2.97
+  Humidity MAE:   3.79   RMSE: 4.78
+
+Sensor 4 - Error Metrics per feature:
+  PM10 MAE:       11.59   RMSE: 15.43
+  PM25 MAE:       6.44   RMSE: 8.98
+  Temperature MAE: 2.93   RMSE: 3.42
+  Humidity MAE:   5.83   RMSE: 7.65
+
+Sensor 5 - Error Metrics per feature:
+  PM10 MAE:       9.90   RMSE: 13.33
+  PM25 MAE:       7.36   RMSE: 10.09
+  Temperature MAE: 1.80   RMSE: 2.26
+  Humidity MAE:   4.73   RMSE: 6.01
+
+Sensor 6 - Error Metrics per feature:
+  PM10 MAE:       10.39   RMSE: 13.39
+  PM25 MAE:       9.02   RMSE: 11.65
+  Temperature MAE: 2.49   RMSE: 3.27
+  Humidity MAE:   3.39   RMSE: 4.37
+
+Sensor 7 - Error Metrics per feature:
+  PM10 MAE:       9.74   RMSE: 12.32
+  PM25 MAE:       8.51   RMSE: 11.03
+  Temperature MAE: 2.04   RMSE: 2.58
+  Humidity MAE:   4.66   RMSE: 5.63
+
+Sensor 8 - Error Metrics per feature:
+  PM10 MAE:       13.87   RMSE: 17.39
+  PM25 MAE:       12.20   RMSE: 15.29
+  Temperature MAE: 2.01   RMSE: 2.71
+  Humidity MAE:   4.37   RMSE: 5.43
+
+Sensor 9 - Error Metrics per feature:
+  PM10 MAE:       16.17   RMSE: 21.83
+  PM25 MAE:       14.93   RMSE: 20.47
+  Temperature MAE: 2.12   RMSE: 2.64
+  Humidity MAE:   3.76   RMSE: 4.68
+
+Sensor 10 - Error Metrics per feature:
+  PM10 MAE:       11.16   RMSE: 14.02
+  PM25 MAE:       8.56   RMSE: 10.86
+  Temperature MAE: 1.86   RMSE: 2.52
+  Humidity MAE:   5.26   RMSE: 6.63
+
+Sensor 11 - Error Metrics per feature:
+  PM10 MAE:       10.89   RMSE: 14.60
+  PM25 MAE:       8.12   RMSE: 11.19
+  Temperature MAE: 2.10   RMSE: 2.61
+  Humidity MAE:   5.57   RMSE: 7.90
+
+Sensor 12 - Error Metrics per feature:
+  PM10 MAE:       12.55   RMSE: 16.50
+  PM25 MAE:       8.65   RMSE: 11.95
+  Temperature MAE: 2.43   RMSE: 2.97
+  Humidity MAE:   2.36   RMSE: 2.82
+
+Overall Error Metrics per feature:
+  PM10 MAE:       12.44   RMSE: 16.27
+  PM25 MAE:       10.07   RMSE: 13.35
+  Temperature MAE: 2.35   RMSE: 2.99
+  Humidity MAE:   4.68   RMSE: 6.00
