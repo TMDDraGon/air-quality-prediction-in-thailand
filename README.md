@@ -56,13 +56,13 @@
     - https://link.springer.com/article/10.1007/s11869-022-01231-x
 
   - `compare LSTM and BiLSTM in Forecasting Time Series`
-    - https://ieeexplore.ieee.org/abstract/document/8614252
+    - https://ieeexplore.ieee.org/document/9005997
 
   - `Deep Learning With TensorFlow`
     - https://journals.sagepub.com/doi/full/10.3102/1076998619872761
 
-  - `LSTM Cells and Network Architectures `
-    - https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=25ff47fe-9c80-4b7b-8718-0478cb216275%40redis
+  - `LSTM Cells and Network Architectures`
+    - https://ieeexplore.ieee.org/document/8737887
    
   - `เขตภูมิอากาศ ในไทย`
     - https://www.sciencedirect.com/science/article/pii/S0960148101000052#FIG6
